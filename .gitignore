@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/.idea/
+/src/main/resources/
+/src/test/java/
+/workspace.xml
+/pom.xml
+/target/
